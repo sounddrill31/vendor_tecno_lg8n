@@ -18,12 +18,10 @@ PRODUCT_COPY_FILES += \
     vendor/tecno/lg8n/proprietary/vendor/firmware/aw8624_rtp.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw8624_rtp.bin \
     vendor/tecno/lg8n/proprietary/vendor/firmware/aw8624_rtp_lighthouse.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw8624_rtp_lighthouse.bin \
     vendor/tecno/lg8n/proprietary/vendor/firmware/aw8624_rtp_silk.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw8624_rtp_silk.bin \
+    vendor/tecno/lg8n/proprietary/vendor/firmware/aw87xxx_acf.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw87xxx_acf.bin \
+    vendor/tecno/lg8n/proprietary/vendor/firmware/awinic_params.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/awinic_params.bin \
     vendor/tecno/lg8n/proprietary/vendor/firmware/fm_cust.cfg:$(TARGET_COPY_OUT_VENDOR)/firmware/fm_cust.cfg \
-    vendor/tecno/lg8n/proprietary/vendor/firmware/fs1599.fsm:$(TARGET_COPY_OUT_VENDOR)/firmware/fs1599.fsm \
-    vendor/tecno/lg8n/proprietary/vendor/firmware/fs3001_1.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/fs3001_1.bin \
-    vendor/tecno/lg8n/proprietary/vendor/firmware/fs3001_2.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/fs3001_2.bin \
-    vendor/tecno/lg8n/proprietary/vendor/firmware/fs3001_haptic.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/fs3001_haptic.bin \
-    vendor/tecno/lg8n/proprietary/vendor/firmware/fs3001_osc_rtp_12K_10s.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/fs3001_osc_rtp_12K_10s.bin \
+    vendor/tecno/lg8n/proprietary/vendor/firmware/focaltech_ts_fw_0.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/focaltech_ts_fw_0.bin \
     vendor/tecno/lg8n/proprietary/vendor/firmware/gt9886_cfg_6781v01.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/gt9886_cfg_6781v01.bin \
     vendor/tecno/lg8n/proprietary/vendor/firmware/gt9886_cfg_6785v96.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/gt9886_cfg_6785v96.bin \
     vendor/tecno/lg8n/proprietary/vendor/firmware/gt9886_cfg_6785v99.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/gt9886_cfg_6785v99.bin \
@@ -85,9 +83,7 @@ PRODUCT_COPY_FILES += \
     vendor/tecno/lg8n/proprietary/vendor/firmware/gt9896s_firmware_6893v05.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/gt9896s_firmware_6893v05.bin \
     vendor/tecno/lg8n/proprietary/vendor/firmware/gt9896s_firmware_6895v01.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/gt9896s_firmware_6895v01.bin \
     vendor/tecno/lg8n/proprietary/vendor/firmware/gt9896s_firmware_6983v01.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/gt9896s_firmware_6983v01.bin \
-    vendor/tecno/lg8n/proprietary/vendor/firmware/ilitek_ts_fw.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/ilitek_ts_fw.bin \
     vendor/tecno/lg8n/proprietary/vendor/firmware/lib3a.ccu:$(TARGET_COPY_OUT_VENDOR)/firmware/lib3a.ccu \
-    vendor/tecno/lg8n/proprietary/vendor/firmware/mp.ini:$(TARGET_COPY_OUT_VENDOR)/firmware/mp.ini \
     vendor/tecno/lg8n/proprietary/vendor/firmware/mt6627_fm_v1_coeff.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/mt6627_fm_v1_coeff.bin \
     vendor/tecno/lg8n/proprietary/vendor/firmware/mt6627_fm_v1_patch.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/mt6627_fm_v1_patch.bin \
     vendor/tecno/lg8n/proprietary/vendor/firmware/mt6630_fm_v1_coeff.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/mt6630_fm_v1_coeff.bin \
@@ -106,7 +102,6 @@ PRODUCT_COPY_FILES += \
     vendor/tecno/lg8n/proprietary/vendor/firmware/novatek_ts_fw_144.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/novatek_ts_fw_144.bin \
     vendor/tecno/lg8n/proprietary/vendor/firmware/novatek_ts_fw_jdi.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/novatek_ts_fw_jdi.bin \
     vendor/tecno/lg8n/proprietary/vendor/firmware/novatek_ts_fw_tm.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/novatek_ts_fw_tm.bin \
-    vendor/tecno/lg8n/proprietary/vendor/firmware/novatek_ts_mp.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/novatek_ts_mp.bin \
     vendor/tecno/lg8n/proprietary/vendor/firmware/remoteproc_scp:$(TARGET_COPY_OUT_VENDOR)/firmware/remoteproc_scp \
     vendor/tecno/lg8n/proprietary/vendor/firmware/soc2_2_ram_bt_1d_1_hdr.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/soc2_2_ram_bt_1d_1_hdr.bin \
     vendor/tecno/lg8n/proprietary/vendor/firmware/soc2_2_ram_bt_1e_1_hdr.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/soc2_2_ram_bt_1e_1_hdr.bin \
